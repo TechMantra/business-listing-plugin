@@ -2,6 +2,7 @@
 
 ## File Structure
 
+<code>
 business-listing-plugin/
 ├── includes/
 │   ├── acf-fields.php
@@ -23,6 +24,7 @@ business-listing-plugin/
 │       └── index.js
 ├── business-listing-plugin.php
 └── webpack.config.js
+</code>
 
 ## How to Use
 
@@ -43,5 +45,5 @@ business-listing-plugin/
 Add the leads to a WhatsApp group manually or via third-party integration services.
 
 ## New Business registration form Usage
-Create a New Page: In your WordPress admin, create a new page where you want to display the business signup form.
+You can create a New Page: In your WordPress admin, you can create a new page to display the business signup form.
 Add Shortcode: Add the shortcode [business_signup_form] to the content of this page.
